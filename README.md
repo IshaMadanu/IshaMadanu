@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Computer Science Student at Georgia Tech (Expected May 2028)</b><br/>
-  Software engineering, data science, and applied NLP/ML
+  Software engineering, Data Science, and applied NLP/ML
 </p>
 
 <p align="center">
@@ -16,10 +16,10 @@
 I'm a Computer Science undergraduate at the Georgia Institute of Technology with concentrations in Information Internetworks / Intelligence and interests in building data-driven and full-stack applications.
 
 - Seeking software engineering and data internships in Spring/Summer 2027
+- Based in Atlanta, GA
 - Undergraduate Researcher in Georgia Tech's NLP X Lab
 - Undergraduate Teaching Assistant for Introduction to Object-Oriented Programming
 - Hacklytics SafetyKitAI Award Winner and SEO Tech Developer Best Overall Project
-- Based in Atlanta, GA
 
 ## Technical Skills
 
