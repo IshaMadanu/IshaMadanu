@@ -51,8 +51,6 @@ Signal-processing and machine learning pipeline for a low-cost spectrometer.
 
 ### [Launch: Job Search and Recruitment Platform](https://isham43.pythonanywhere.com/)
 Django job platform with profile management, postings, skill-based recommendations, and applicant tracking.
-- Served as project manager: reviewed and merged 25+ PRs and followed Agile practices
-- Deployed on PythonAnywhere; designed UML diagrams for system architecture
 - Tech: Python, Django
 
 ## GitHub Activity
