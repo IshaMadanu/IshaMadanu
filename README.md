@@ -8,18 +8,17 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/isha-madanu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:isha.madanu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="YOUR-RESUME-LINK"><img src="https://img.shields.io/badge/Resume-View-2ea44f" alt="Resume"/></a>
 </p>
 
 ---
 
 ## About
-Computer Science undergraduate at the Georgia Institute of Technology with interests in building data-driven and full-stack applications.
+I'm a Computer Science undergraduate at the Georgia Institute of Technology with concentrations in Information Internetworks / Intelligence and interests in building data-driven and full-stack applications.
 
+- Seeking software engineering and data internships in Spring/Summer 2027
 - Undergraduate Researcher in Georgia Tech's NLP X Lab
 - Undergraduate Teaching Assistant for Introduction to Object-Oriented Programming
 - Hacklytics SafetyKitAI Award Winner and SEO Tech Developer Best Overall Project
-- Seeking software engineering and data internships in [Summer 2027]
 - Based in Atlanta, GA
 
 ## Technical Skills
