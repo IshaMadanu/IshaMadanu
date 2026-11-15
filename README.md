@@ -49,7 +49,7 @@ Signal-processing and machine learning pipeline for a low-cost spectrometer.
 - OpenCV, NumPy, and SciPy for spectral measurements; Random Forest models for element identification
 - Tech: Python, OpenCV, NumPy, SciPy, Scikit-learn
 
-### [Launch: Job Search and Recruitment Platform](https://isham43.pythonanywhere.com/)
+### Launch: Job Search and Recruitment Platform
 Django job platform with profile management, postings, skill-based recommendations, and applicant tracking.
 - Tech: Python, Django
 
