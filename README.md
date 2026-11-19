@@ -53,13 +53,6 @@ Signal-processing and machine learning pipeline for a low-cost spectrometer.
 Django job platform with profile management, postings, skill-based recommendations, and applicant tracking.
 - Tech: Python, Django
 
-## GitHub Activity
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=IshaMadanu&show_icons=true&theme=default&hide_border=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaMadanu&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
-
 ## Contact
 
 - LinkedIn: [linkedin.com/in/isha-madanu](https://www.linkedin.com/in/isha-madanu)
